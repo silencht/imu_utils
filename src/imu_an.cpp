@@ -5,6 +5,7 @@
 // backward::SignalHandling sh;
 //}
 
+#include <fstream>
 #include "acc_lib/allan_acc.h"
 #include "acc_lib/fitallan_acc.h"
 #include "gyr_lib/allan_gyr.h"
