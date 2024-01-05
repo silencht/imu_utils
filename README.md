@@ -1,3 +1,5 @@
+# [imu_utils](https://github.com/silencht/imu_utils),[code_utils](https://github.com/silencht/code_utils) ,[Kalibr](https://github.com/silencht/kalibr) and [realsense-ros](https://github.com/silencht/realsense-ros) 四个仓库用于Realsense d400系列相机的IMU+双目标定
+# 标定流程记录于https://github.com/silencht/imu_utils/blob/master/kalibr-note/kalibr_note.md
 # imu_utils
 
 A ROS package tool to analyze the IMU performance. C++ version of Allan Variance Tool. 
